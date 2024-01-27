@@ -1,8 +1,8 @@
 /**
  * Odd Digit Character Counter
  *
- * Warren Tarry T00744855
- * COMP 1131 Assignment 3 Question 2
+ * 
+ * 
  *
  * This program prompts the user to enter text, then reads it
  * to determine the total number of characters the user has entered
